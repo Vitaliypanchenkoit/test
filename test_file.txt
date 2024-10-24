@@ -1,3 +1,6 @@
 Init a project
 
 Some change in the master branch before the new_branch is merged
+
+Change 1
+Change 2
